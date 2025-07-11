@@ -1,0 +1,15 @@
+# Handle routing for the law firm website
+/about/* /about/page.html
+/cases/* /cases/page.html
+/practice-areas/* /practice-areas/page.html
+/team/* /team/page.html
+/contact/* /contact/page.html
+/faqs/* /faqs/page.html
+/homev1/* /homev1/page.html
+/404/* /404/page.html
+
+# Redirect root to main page
+/ /page.html
+
+# Handle 404 errors
+/* /404/page.html 404 
