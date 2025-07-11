@@ -1,4 +1,4 @@
-name = "futurejd-landing"
+name = "futurejd"
 main = "src/index.js"
 compatibility_date = "2024-01-01"
 
@@ -6,7 +6,7 @@ compatibility_date = "2024-01-01"
 bucket = "."
 
 [env.production]
-name = "futurejd-landing-prod"
+name = "futurejd-prod"
 
 [env.staging]
-name = "futurejd-landing-staging" 
+name = "futurejd-staging" 
